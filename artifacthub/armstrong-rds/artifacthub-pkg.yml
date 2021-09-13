@@ -1,0 +1,24 @@
+# Artifact Hub package metadata file
+# https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
+version: 0.1.0
+name: armstrong-rds
+displayName: Armstrong RDS
+createdAt: 2021-09-14T10:00:00Z
+description: Armstrong Relational Database Service
+license: Apache-2.0
+homeURL: https://aws.amazon.com/rds/
+keywords:
+  - postgres
+  - database
+  - relational
+links:
+  - name: GitHub
+    url: https://github.com/erhwenkuo/external-scalers
+  - name: Helm Registry
+    url: https://github.com/kedacore/charts
+provider:
+  name: Armstrong
+recommendations:
+  - url: https://aws.amazon.com/rds/
+  - url: https://azure.microsoft.com/en-us/services/postgresql/
+
