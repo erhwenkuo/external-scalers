@@ -1,6 +1,6 @@
 # Artifact Hub package metadata file
 # https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
-version: 0.1.4
+version: 0.1.5
 name: armstrong-rds
 displayName: Armstrong RDS
 createdAt: 2021-09-14T10:00:00Z
@@ -25,7 +25,7 @@ links:
   - name: FAQs
     url: https://aws.amazon.com/rds/postgresql/faqs/
 maintainers:
-  - name: Richard Lai(+8500-31886)
+  - name: Richard Lai (+8500-31886)
     email: richard_lai@wistron.com
 provider:
   name: Armstrong
