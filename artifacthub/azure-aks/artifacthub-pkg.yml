@@ -5,6 +5,7 @@ name: azure-aks
 displayName: Azure Kubernetes Service (AKS)
 createdAt: 2021-09-14T10:00:00Z
 description: Azure Kubernetes Service (AKS)
+logoPath: logo/azure-aks-stack-208x234.png
 license: Apache-2.0
 homeURL: https://aws.amazon.com/rds/
 keywords:
