@@ -1,10 +1,10 @@
 # Artifact Hub package metadata file
 # https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
-version: 0.1.2
+version: 0.1.3
 name: armstrong-rds
 displayName: Armstrong RDS
 createdAt: 2021-09-14T10:00:00Z
-description: Armstrong Relational Database Service
+description: Armstrong Relational Database Service (Armstrong RDS) makes it easy to set up, operate, and scale a relational database in the private cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.
 logoPath: logo/postgresql-stack-220x234.png
 license: Apache-2.0
 homeURL: https://aws.amazon.com/rds/

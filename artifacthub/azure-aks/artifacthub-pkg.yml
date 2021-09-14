@@ -1,10 +1,10 @@
 # Artifact Hub package metadata file
 # https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
-version: 0.1.1
+version: 0.1.2
 name: azure-aks
 displayName: Azure Kubernetes Service (AKS)
 createdAt: 2021-09-14T10:00:00Z
-description: Azure Kubernetes Service (AKS)
+description: Deploy and manage containerized applications more easily with a fully managed Kubernetes service. Azure Kubernetes Service (AKS) offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience, and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver, and scale applications with confidence.
 logoPath: logo/azure-aks-stack-208x234.png
 license: Apache-2.0
 homeURL: https://aws.amazon.com/rds/
