@@ -25,7 +25,7 @@ links:
   - name: FAQs
     url: https://aws.amazon.com/rds/postgresql/faqs/
 maintainers:
-  - name: Richard Lai (+8500-31886)
+  - name: Richard Lai
     email: richard_lai@wistron.com
 provider:
   name: Armstrong
