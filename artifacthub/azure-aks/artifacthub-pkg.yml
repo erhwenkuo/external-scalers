@@ -18,8 +18,8 @@ links:
   - name: Azure AKS
     url: https://azure.microsoft.com/en-us/services/kubernetes-service/
 provider:
-  name: Armstrong
+  name: Azure
 recommendations:
-  - url: https://aws.amazon.com/rds/
-  - url: https://azure.microsoft.com/en-us/services/postgresql/
+  - url: https://aws.amazon.com/tw/eks/
+  - url: https://azure.microsoft.com/en-us/services/kubernetes-service/
 
