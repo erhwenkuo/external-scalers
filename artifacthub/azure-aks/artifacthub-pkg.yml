@@ -1,6 +1,6 @@
 # Artifact Hub package metadata file
 # https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
-version: 0.1.2
+version: 1.20.5
 name: azure-aks
 displayName: Azure Kubernetes Service (AKS)
 createdAt: 2021-09-14T10:00:00Z
@@ -18,8 +18,8 @@ links:
   - name: Azure AKS
     url: https://azure.microsoft.com/en-us/services/kubernetes-service/
 provider:
-  name: Armstrong
+  name: Azure
 recommendations:
-  - url: https://aws.amazon.com/rds/
-  - url: https://azure.microsoft.com/en-us/services/postgresql/
+  - url: https://aws.amazon.com/tw/eks/
+  - url: https://azure.microsoft.com/en-us/services/kubernetes-service/
 
